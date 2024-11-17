@@ -21,7 +21,7 @@ Company-API es un servicio REST desarrollado en Java con **Spring Boot** que per
 ---
 
 ## 🛠️ Tecnologías utilizadas  
-- **Java 17**  
+- **Java 21**  
 - **Spring Boot** (versión 3.1.0 o superior)  
 - **Spring Data JPA**  
 - **Lombok**  
@@ -44,7 +44,7 @@ Company-API es un servicio REST desarrollado en Java con **Spring Boot** que per
 ---
 
 ## 📋 Requisitos previos  
-1. **JDK 17** instalado.  
+1. **JDK 21** instalado.  
 2. **MySQL** configurado y en ejecución.  
 3. Base de datos `Company` creada con la tabla `Employees`:  
 
